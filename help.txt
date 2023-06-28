@@ -1,0 +1,5 @@
+run command set_pg
+then run command psql to go to postgreSQL database
+to clear out of database and get to regular terminal run \q
+to create a file in python type touch followed by the name of the file
+pip3 install sqlalchemy==1.4.46 the SQL Alchemy pacage to install
